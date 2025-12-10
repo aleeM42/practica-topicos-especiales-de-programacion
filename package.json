@@ -1,0 +1,30 @@
+{
+  "name": "practica-topicos-especiales-de-programacion",
+  "version": "1.0.0",
+  "description": "practica tep",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo  \"Error no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleeM42/practica-topicos-especiales-de-programacion.git"
+  },
+  "keywords": [
+    "maria"
+  ],
+  "author": "maria marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleeM42/practica-topicos-especiales-de-programacion/issues"
+  },
+  "homepage": "https://github.com/aleeM42/practica-topicos-especiales-de-programacion#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.1"
+  }
+}
